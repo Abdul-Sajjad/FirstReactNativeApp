@@ -18,6 +18,10 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+    fun localChangesSecond(){
+
+    }
+
     fun remoteChanges(){
 
     }
