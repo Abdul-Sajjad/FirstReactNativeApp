@@ -14,10 +14,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    fun local(){
+    fun localChanges(){
 
     }
-     fun remote(){
 
-    }
 }
