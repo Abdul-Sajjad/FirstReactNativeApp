@@ -17,4 +17,7 @@ class MainActivity : AppCompatActivity() {
     fun local(){
 
     }
+     fun remote(){
+
+    }
 }
