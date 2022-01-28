@@ -18,4 +18,7 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+    fun remoteChanges(){
+
+    }
 }
