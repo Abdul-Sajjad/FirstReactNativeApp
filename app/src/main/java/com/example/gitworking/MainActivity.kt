@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    fun remoteChanges(){
+    fun remoteChangesFirst(){
 
     }
     fun remoteChangesSecond(){
