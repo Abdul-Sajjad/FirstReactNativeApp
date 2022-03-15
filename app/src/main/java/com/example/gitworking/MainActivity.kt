@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
     fun addPushCommand(){
         val z = 1
         val one = 1
-        val two = "Simple"
+        val two = "type string"
         val three = 2
 
     }
