@@ -11,4 +11,6 @@ class MainActivity : AppCompatActivity() {
     
     fun addFeatureB(){
     }
+    fun addPushCommand(){
+    }
 }
