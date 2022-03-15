@@ -30,5 +30,6 @@ class MainActivity : AppCompatActivity() {
     }
     
     fun addPushInMaster(){
+        val a = 1
     }
 }
