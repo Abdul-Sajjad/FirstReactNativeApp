@@ -28,4 +28,7 @@ class MainActivity : AppCompatActivity() {
     fun remoteChangesSecond(){
 
     }
+    
+    fun addPushInMaster(){
+    }
 }
