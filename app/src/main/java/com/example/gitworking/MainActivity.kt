@@ -14,7 +14,8 @@ class MainActivity : AppCompatActivity() {
     fun addPushCommand(){
         val z = 1
         val one = 1
-        val two = 2
+        val two = 4
+        val three = 2
 
     }
 }
