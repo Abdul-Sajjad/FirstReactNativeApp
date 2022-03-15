@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
     fun addFeatureB(){
     }
     fun addPushCommand(){
-        val a = 1
+        val z = 1
+        val one = 1
     }
 }
